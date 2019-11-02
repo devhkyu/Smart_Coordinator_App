@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SmartCoordinator.iml" filepath="$PROJECT_DIR$/SmartCoordinator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Smart_Coordinator_App.iml" filepath="$PROJECT_DIR$/.idea/Smart_Coordinator_App.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

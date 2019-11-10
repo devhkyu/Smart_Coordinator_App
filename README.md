@@ -1,7 +1,7 @@
 # SCON: Smart Coordinator Application
 - Request python server
 - Analysis of fashion trend
-- Recommend fashion coordination
+- Recommend fashion coordination(item-based)
 
 # Used
 - kotlin
